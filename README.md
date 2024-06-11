@@ -3,7 +3,9 @@
 👀 I’m interested in Data Engineering/Data Aanalyst
 
 📫 How to reach me : balijakiran09@gmail.com 
+
 🌐 Socials:
+https://www.linkedin.com/in/kiranbalija/
 
 <!--
 **balijak/balijak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
